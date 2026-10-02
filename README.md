@@ -1,6 +1,6 @@
-# Orchard Doku support
+# Orchard Doku 3D support
 
-Official static support and privacy pages for Orchard Doku by Guiquan Chen (cgq-source).
+Official static support and privacy pages for Orchard Doku 3D by Guiquan Chen (cgq-source).
 
 - Privacy: https://cgq-source.github.io/orchard-doku-support/privacy.html
 - Support: https://cgq-source.github.io/orchard-doku-support/support.html
@@ -15,3 +15,7 @@ Content reflects the app’s local gameplay storage, StoreKit purchases and volu
 The approved theme follows Orchard Doku's home screen: sky-to-cream background, green typography, rounded reading cards and the app's orchard illustration. Desktop and mobile previews were approved before publishing. Privacy and support text and all four language sections are unchanged.
 
 `assets/HomeScene.png` and `assets/IconLeaf.png` are the developer's existing Orchard Doku app assets, hosted locally with this site. No third-party fonts, scripts or media are loaded.
+
+## 1.1.0 · 2026-10-02
+
+Optional private CloudKit game sync now includes classic and 3D boards, selected 3D size/face, progress, recent play history and reward records. Conflicting saves require explicit selection, and replacements are backed up locally. The website and app continue to link Apple’s Standard EULA.
