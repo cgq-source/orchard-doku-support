@@ -19,3 +19,7 @@ The approved theme follows Orchard Doku's home screen: sky-to-cream background, 
 ## 1.1.0 · 2026-10-02
 
 Optional private CloudKit game sync now includes classic and 3D boards, selected 3D size/face, progress, recent play history and reward records. Conflicting saves require explicit selection, and replacements are backed up locally. The website and app continue to link Apple’s Standard EULA.
+
+## 1.1.1 · 2026-10-03
+
+Privacy, support and supplemental use/purchase terms now cover nine app languages. The privacy policy covers on-device motion and dark-mode settings and all three consumable packs (120/420/1200). The terms link Apple’s Standard EULA and explain localized pricing, consumable delivery, Pro restoration and Apple refund requests. No analytics or tracking scripts were added.
